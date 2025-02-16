@@ -1,2 +1,2 @@
-# ExpenseIncomeTraker
-ExpenseIncomeTraker in java
+# ExpenseIncomeTracker
+ExpenseIncomeTracker in java
